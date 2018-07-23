@@ -67,7 +67,7 @@ Scoutchain
 
 ### Unspent Transaction Output (UTXO)
 
-![UTXO](https://cdn-images-1.medium.com/max/2000/1*eAKr5SIZfWXwC9dFBOmS3Q.png)
+![UTXO](https://quarkblockchain.com/white-paper/images/image7.png)
 
 ---
 
