@@ -1,6 +1,6 @@
 # Blockchain Tutorial
 
-2018-07-24
+2019-05-07
 
 Heungjin Kim
 
@@ -32,6 +32,29 @@ ScoutChain
 * 현재의 암호학적 도구들을 조합하면 중앙기관 없이 가능할 수 있다!<!-- .element: class="fragment" -->
   * Cryptographic hash<!-- .element: class="fragment" -->
   * Digital signature<!-- .element: class="fragment" -->
+
+---
+
+### Cryptographic Hash
+
+* Hash<!-- .element: class="fragment" -->
+  * 긴 데이터를 요약하기
+* Cryptographic Hash<!-- .element: class="fragment" -->
+  * 내용을 임의로 조작해서 같은 요약값을 만들 수 없음
+
+--
+
+![](https://freecontent.manning.com/wp-content/uploads/Rosenbaum_CHaB_01.png)
+
+--
+
+![](https://freecontent.manning.com/wp-content/uploads/Rosenbaum_CHaB_02.png)
+
+---
+
+### Digital signature
+
+![](https://i0.wp.com/comodosslstore.com/blog/wp-content/uploads/2017/05/digital-signature.jpg)
 
 ---
 
